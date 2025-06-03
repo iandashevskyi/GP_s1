@@ -1,0 +1,2 @@
+step,wins,draws,losses,avg_moves,epsilon
+10000,324,8080,1596,0.0,0.1

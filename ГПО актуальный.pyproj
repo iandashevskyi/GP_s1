@@ -1,0 +1,58 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>a6a10eca-5e6a-4a9d-b42b-325129111825</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>main.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>ГПО актуальный</Name>
+    <RootNamespace>ГПО актуальный</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="agents\base.py" />
+    <Compile Include="agents\double_q_learning.py" />
+    <Compile Include="agents\dqn.py" />
+    <Compile Include="agents\human.py" />
+    <Compile Include="agents\lookahead.py" />
+    <Compile Include="agents\q_learning.py" />
+    <Compile Include="agents\random_agent.py" />
+    <Compile Include="agents\rulebased_agent.py" />
+    <Compile Include="agents\sarsa.py" />
+    <Compile Include="evaluate.py" />
+    <Compile Include="main.py" />
+    <Compile Include="core\game.py" />
+    <Compile Include="core\board.py" />
+    <Compile Include="play_human.py" />
+    <Compile Include="train_double_q.py" />
+    <Compile Include="train_q.py" />
+    <Compile Include="train_sarsa.py" />
+    <Compile Include="utils\io_utils.py" />
+    <Compile Include="utils\logger.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="agents\" />
+    <Folder Include="core\" />
+    <Folder Include="utils\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>

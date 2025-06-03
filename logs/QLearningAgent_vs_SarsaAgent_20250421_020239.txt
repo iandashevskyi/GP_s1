@@ -1,0 +1,1 @@
+Evaluation result: wins=10000, losses=0, draws=0, avg_moves=7.0

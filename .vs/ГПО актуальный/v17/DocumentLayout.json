@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A10ECA-5E6A-4A9D-B42B-325129111825}|\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439.pyproj|C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\utils\\logger.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A6A10ECA-5E6A-4A9D-B42B-325129111825}|\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439.pyproj|solutionrelative:utils\\logger.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A10ECA-5E6A-4A9D-B42B-325129111825}|\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439.pyproj|C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\utils\\io_utils.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A6A10ECA-5E6A-4A9D-B42B-325129111825}|\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439.pyproj|solutionrelative:utils\\io_utils.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A10ECA-5E6A-4A9D-B42B-325129111825}|\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439.pyproj|C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\agents\\rulebased_agent.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A6A10ECA-5E6A-4A9D-B42B-325129111825}|\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439.pyproj|solutionrelative:agents\\rulebased_agent.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A10ECA-5E6A-4A9D-B42B-325129111825}|\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439.pyproj|C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\agents\\lookahead.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A6A10ECA-5E6A-4A9D-B42B-325129111825}|\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439.pyproj|solutionrelative:agents\\lookahead.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A10ECA-5E6A-4A9D-B42B-325129111825}|\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439.pyproj|C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\train_sarsa.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A6A10ECA-5E6A-4A9D-B42B-325129111825}|\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439.pyproj|solutionrelative:train_sarsa.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A10ECA-5E6A-4A9D-B42B-325129111825}|\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439.pyproj|C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\train_q.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A6A10ECA-5E6A-4A9D-B42B-325129111825}|\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439.pyproj|solutionrelative:train_q.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A10ECA-5E6A-4A9D-B42B-325129111825}|\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439.pyproj|C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\train_double_q.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A6A10ECA-5E6A-4A9D-B42B-325129111825}|\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439.pyproj|solutionrelative:train_double_q.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A10ECA-5E6A-4A9D-B42B-325129111825}|\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439.pyproj|C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\agents\\sarsa.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A6A10ECA-5E6A-4A9D-B42B-325129111825}|\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439.pyproj|solutionrelative:agents\\sarsa.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A10ECA-5E6A-4A9D-B42B-325129111825}|\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439.pyproj|C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\evaluate.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A6A10ECA-5E6A-4A9D-B42B-325129111825}|\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439.pyproj|solutionrelative:evaluate.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A10ECA-5E6A-4A9D-B42B-325129111825}|\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439.pyproj|C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A6A10ECA-5E6A-4A9D-B42B-325129111825}|\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439.pyproj|solutionrelative:main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A10ECA-5E6A-4A9D-B42B-325129111825}|\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439.pyproj|C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\play_human.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A6A10ECA-5E6A-4A9D-B42B-325129111825}|\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439.pyproj|solutionrelative:play_human.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A10ECA-5E6A-4A9D-B42B-325129111825}|\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439.pyproj|C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\core\\game.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A6A10ECA-5E6A-4A9D-B42B-325129111825}|\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439.pyproj|solutionrelative:core\\game.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A10ECA-5E6A-4A9D-B42B-325129111825}|\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439.pyproj|C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\core\\board.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A6A10ECA-5E6A-4A9D-B42B-325129111825}|\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439.pyproj|solutionrelative:core\\board.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A10ECA-5E6A-4A9D-B42B-325129111825}|\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439.pyproj|C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\agents\\q_learning.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A6A10ECA-5E6A-4A9D-B42B-325129111825}|\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439.pyproj|solutionrelative:agents\\q_learning.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A10ECA-5E6A-4A9D-B42B-325129111825}|\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439.pyproj|C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\agents\\human.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A6A10ECA-5E6A-4A9D-B42B-325129111825}|\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439.pyproj|solutionrelative:agents\\human.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A10ECA-5E6A-4A9D-B42B-325129111825}|\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439.pyproj|C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\agents\\double_q_learning.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A6A10ECA-5E6A-4A9D-B42B-325129111825}|\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439.pyproj|solutionrelative:agents\\double_q_learning.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A10ECA-5E6A-4A9D-B42B-325129111825}|\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439.pyproj|C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\agents\\base.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A6A10ECA-5E6A-4A9D-B42B-325129111825}|\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439.pyproj|solutionrelative:agents\\base.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A10ECA-5E6A-4A9D-B42B-325129111825}|\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439.pyproj|C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\agents\\dqn.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A6A10ECA-5E6A-4A9D-B42B-325129111825}|\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439.pyproj|solutionrelative:agents\\dqn.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A10ECA-5E6A-4A9D-B42B-325129111825}|\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439.pyproj|C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\agents\\random_agent.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A6A10ECA-5E6A-4A9D-B42B-325129111825}|\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439.pyproj|solutionrelative:agents\\random_agent.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "train_q.py",
+              "DocumentMoniker": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\train_q.py",
+              "RelativeDocumentMoniker": "train_q.py",
+              "ToolTip": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\train_q.py",
+              "RelativeToolTip": "train_q.py",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-20T07:08:02.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "train_sarsa.py",
+              "DocumentMoniker": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\train_sarsa.py",
+              "RelativeDocumentMoniker": "train_sarsa.py",
+              "ToolTip": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\train_sarsa.py",
+              "RelativeToolTip": "train_sarsa.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-20T13:29:46.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "sarsa.py",
+              "DocumentMoniker": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\agents\\sarsa.py",
+              "RelativeDocumentMoniker": "agents\\sarsa.py",
+              "ToolTip": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\agents\\sarsa.py",
+              "RelativeToolTip": "agents\\sarsa.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-18T13:21:07.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "lookahead.py",
+              "DocumentMoniker": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\agents\\lookahead.py",
+              "RelativeDocumentMoniker": "agents\\lookahead.py",
+              "ToolTip": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\agents\\lookahead.py",
+              "RelativeToolTip": "agents\\lookahead.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-20T07:05:39.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "rulebased_agent.py",
+              "DocumentMoniker": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\agents\\rulebased_agent.py",
+              "RelativeDocumentMoniker": "agents\\rulebased_agent.py",
+              "ToolTip": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\agents\\rulebased_agent.py",
+              "RelativeToolTip": "agents\\rulebased_agent.py",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-19T19:14:59.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "evaluate.py",
+              "DocumentMoniker": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\evaluate.py",
+              "RelativeDocumentMoniker": "evaluate.py",
+              "ToolTip": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\evaluate.py",
+              "RelativeToolTip": "evaluate.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-20T07:08:12.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "io_utils.py",
+              "DocumentMoniker": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\utils\\io_utils.py",
+              "RelativeDocumentMoniker": "utils\\io_utils.py",
+              "ToolTip": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\utils\\io_utils.py",
+              "RelativeToolTip": "utils\\io_utils.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-20T07:07:41.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "logger.py",
+              "DocumentMoniker": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\utils\\logger.py",
+              "RelativeDocumentMoniker": "utils\\logger.py",
+              "ToolTip": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\utils\\logger.py",
+              "RelativeToolTip": "utils\\logger.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-20T13:49:47.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "train_double_q.py",
+              "DocumentMoniker": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\train_double_q.py",
+              "RelativeDocumentMoniker": "train_double_q.py",
+              "ToolTip": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\train_double_q.py",
+              "RelativeToolTip": "train_double_q.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-20T18:35:59.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "play_human.py",
+              "DocumentMoniker": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\play_human.py",
+              "RelativeDocumentMoniker": "play_human.py",
+              "ToolTip": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\play_human.py",
+              "RelativeToolTip": "play_human.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-20T07:08:30.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "main.py",
+              "DocumentMoniker": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\main.py",
+              "RelativeDocumentMoniker": "main.py",
+              "ToolTip": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\main.py",
+              "RelativeToolTip": "main.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-18T13:22:45.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "game.py",
+              "DocumentMoniker": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\core\\game.py",
+              "RelativeDocumentMoniker": "core\\game.py",
+              "ToolTip": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\core\\game.py",
+              "RelativeToolTip": "core\\game.py",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-18T13:21:41.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "board.py",
+              "DocumentMoniker": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\core\\board.py",
+              "RelativeDocumentMoniker": "core\\board.py",
+              "ToolTip": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\core\\board.py",
+              "RelativeToolTip": "core\\board.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-18T13:16:29.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "q_learning.py",
+              "DocumentMoniker": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\agents\\q_learning.py",
+              "RelativeDocumentMoniker": "agents\\q_learning.py",
+              "ToolTip": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\agents\\q_learning.py",
+              "RelativeToolTip": "agents\\q_learning.py",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-18T13:20:51.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "human.py",
+              "DocumentMoniker": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\agents\\human.py",
+              "RelativeDocumentMoniker": "agents\\human.py",
+              "ToolTip": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\agents\\human.py",
+              "RelativeToolTip": "agents\\human.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-20T07:04:59.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "double_q_learning.py",
+              "DocumentMoniker": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\agents\\double_q_learning.py",
+              "RelativeDocumentMoniker": "agents\\double_q_learning.py",
+              "ToolTip": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\agents\\double_q_learning.py",
+              "RelativeToolTip": "agents\\double_q_learning.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-20T18:35:34.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "base.py",
+              "DocumentMoniker": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\agents\\base.py",
+              "RelativeDocumentMoniker": "agents\\base.py",
+              "ToolTip": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\agents\\base.py",
+              "RelativeToolTip": "agents\\base.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-18T13:20:12.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "dqn.py",
+              "DocumentMoniker": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\agents\\dqn.py",
+              "RelativeDocumentMoniker": "agents\\dqn.py",
+              "ToolTip": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\agents\\dqn.py",
+              "RelativeToolTip": "agents\\dqn.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-18T13:52:07.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "random_agent.py",
+              "DocumentMoniker": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\agents\\random_agent.py",
+              "RelativeDocumentMoniker": "agents\\random_agent.py",
+              "ToolTip": "C:\\Users\\dashe\\source\\repos\\\u0413\u041F\u041E \u0430\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439\\agents\\random_agent.py",
+              "RelativeToolTip": "agents\\random_agent.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-04-20T07:05:13.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
